@@ -1,0 +1,11 @@
+---
+---
+
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+
+@import 'uswds/all';
+
+.usa-overlay {
+  transition: opacity 0.2s ease-in-out;
+}
